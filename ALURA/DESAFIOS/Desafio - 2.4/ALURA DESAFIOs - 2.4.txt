@@ -1,0 +1,17 @@
+Saber como usar listas é um dos conceitos fundamentais da programação e do desenvolvimento de software.
+
+Pensando nisso, criamos uma lista de atividades (não obrigatórias) focada em prática para melhorar ainda mais sua experiência de aprendizagem.
+
+Lembrando que, caso você queira algum HTML já preparado para conseguir executar seus desafios, você pode utilizar o que foi disponibilizado nos desafios do primeiro curso. Link para download
+
+Bora praticar então?
+
+Desafios
+Crie uma lista vazia, com o nome listaGenerica.
+Crie uma lista de linguagens de programação chamada linguagensDeProgramacao com os seguintes elementos: 'JavaScript','C','C++', 'Kotlin' e 'Python'.
+Adicione à lista linguagensDeProgramacao os seguintes elementos: 'Java', 'Ruby' e 'GoLang'.
+Crie uma lista com 3 nomes e exiba no console apenas o primeiro elemento.
+Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
+Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
+
+https://github.com/alura-cursos/js-curso-2/tree/desafio_4

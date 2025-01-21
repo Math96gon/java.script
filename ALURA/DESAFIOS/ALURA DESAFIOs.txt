@@ -1,0 +1,20 @@
+ALURA DESAFIO - JAVA 
+
+Desafio 01 - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137040
+
+Dasafio 02 - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137047
+
+ALURA DESFIO - 03 
+https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137074
+
+Desafio 04 - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137091
+
+
+--------------------
+ Desafio 2.1 -https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137214
+ 
+ Desafio 2.2 - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137220
+
+-------------------------
+
+DESAFIO 7.3 - https://cursos.alura.com.br/course/logica-programacao-praticando-desafios/task/146030

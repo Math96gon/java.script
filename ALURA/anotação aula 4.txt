@@ -1,0 +1,4 @@
+código Break 
+operador ternário 
+entender o Math.Random ( DEVELOPER.MOZILLA.ORG )
+PARESEINT
